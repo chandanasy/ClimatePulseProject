@@ -6,10 +6,11 @@ Welcome to Climate Pulse!
 Thank you for choosing our application to explore public opinion on climate change across US governments and presidential terms. To get started, follow the steps below:
 
 Step 1: Download the Application
-- e download and extract the contents of the zip file to a directory of your choice on your local machine.
+- download and extract the contents of the zip file to a directory of your choice on your local machine.
 
 Step 2: Installation
 - Make sure you have Python installed on your system (Python 3.6 or above).
+- add in your google cloud credentials and mongodb api
 - Open a terminal or command prompt and navigate to the directory where you extracted the Climate Pulse application.
 
 Step 3: Run the Application
